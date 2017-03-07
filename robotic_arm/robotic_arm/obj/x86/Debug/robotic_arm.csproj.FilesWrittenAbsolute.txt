@@ -1,0 +1,6 @@
+/Users/mtstarks/Projects/robotic_arm/robotic_arm/obj/x86/Debug/.NETFramework,Version=v4.5.AssemblyAttribute.cs
+/Users/mtstarks/Projects/robotic_arm/robotic_arm/bin/Debug/robotic_arm.exe.mdb
+/Users/mtstarks/Projects/robotic_arm/robotic_arm/bin/Debug/robotic_arm.exe
+/Users/mtstarks/Projects/robotic_arm/robotic_arm/obj/x86/Debug/robotic_arm.exe
+/Users/mtstarks/Projects/robotic_arm/robotic_arm/obj/x86/Debug/robotic_arm.exe.mdb
+/Users/mtstarks/Projects/robotic_arm/robotic_arm/bin/Debug/nunit.framework.dll

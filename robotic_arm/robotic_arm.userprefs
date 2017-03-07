@@ -1,0 +1,17 @@
+﻿<Properties StartupConfiguration="{33C5BCA1-812F-4C4A-9865-360782107CBD}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="robotic_arm/BaseCommand.cs">
+    <Files>
+      <File FileName="robotic_arm/Program.cs" Line="18" Column="2" />
+      <File FileName="robotic_arm/ProgramTests.cs" Line="9" Column="24" />
+      <File FileName="robotic_arm/BlockController.cs" Line="87" Column="4" />
+      <File FileName="robotic_arm/BaseCommand.cs" Line="2" Column="11" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.ItemProperties.robotic__arm PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug|x86" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MultiItemStartupConfigurations />
+</Properties>
